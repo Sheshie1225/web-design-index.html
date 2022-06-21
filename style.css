@@ -1,0 +1,20 @@
+body {
+  font-family: serif, Helvetica, sans-serif;
+  background-color: #E0D6D6;
+}
+
+.events{
+  margin:50px 50px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.visualizationImg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
